@@ -1,0 +1,20 @@
+# Cute Cat
+
+mode: separate-outputs
+
+parent: bc1pz2jn6lk2h7906wuzw8ul3rm49rygnp4jxy2wk839ga047ksp9jcshrqn53
+
+postage: 12345
+
+reinscribe: true
+
+inscriptions:
+- file: cat.jpg
+  delegate: bc1pz2jn6lk2h7906wuzw8ul3rm49rygnp4jxy2wk839ga047ksp9jcshrqn53
+  destination: bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4
+  metadata:
+    title: Cute Cat
+    description: >
+      Studio shot of a gray and white striped cat sitting on blue background.
+    metaprotocol: DOPEPROTOCOL-42069
+    author: Dagem Tsehay
